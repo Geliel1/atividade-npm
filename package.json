@@ -1,0 +1,16 @@
+{
+    "name": "ola-mundo",
+    "version": "1.0.0",
+    "description": " Olá mundo! Estou usando Node.js, NPM e HTML",
+    "main": "index.html",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Geliel1/atividade-npm.git"
+    },
+    "author": "Geliel",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Geliel1/atividade-npm/issues"
+    },
+    "homepage": "https://github.com/Geliel1/atividade-npm#readme"
+}
